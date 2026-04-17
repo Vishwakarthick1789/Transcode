@@ -23,6 +23,18 @@ The application is split into two independent domains:
 
 Follow these step-by-step instructions to get the application running on your local machine. Ensure you have **Python 3.8+** and **Node.js (18+)** installed.
 
+### ⚡ Easy Auto-Start (Windows)
+
+We've provided a simple batch script to automatically load both the React Frontend and the Python Backend at the same time:
+
+1. Double-click the `start.bat` file located in the root of the project directory.
+2. It will open two new terminal windows that automatically handle activation and starting the servers. 
+3. Once fully loaded, open your browser to `http://localhost:5173`.
+
+---
+
+### 🛠 Manual Start (Mac, Linux, or alternative)
+
 ### Step 1: Start the Translation Backend
 
 The backend needs to parse input text through PyTorch models. We use a virtual environment to manage dependencies locally.
