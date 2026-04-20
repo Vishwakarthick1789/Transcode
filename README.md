@@ -17,7 +17,6 @@ The application is split into two independent domains:
    - **Lazy Loading**: Huge ML models are not loaded until they are requested by the user, drastically speeding up application boot time and reducing RAM overhead if only one language is used.
 2. **Frontend (`/frontend`)**: A blazing-fast `Vite + React` client. Includes custom dark-mode aesthetics, responsive CSS grids, and smooth animations during the inference delay.
 
----
 
 ## 🚀 Getting Started
 
