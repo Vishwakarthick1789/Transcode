@@ -20,7 +20,7 @@ The application is split into two independent domains:
 
 ## 🚀 Getting Started
 
-Follow these step-by-step instructions to get the application running on your local machine. Ensure you have **Python 3.8+** and **Node.js (18+)** installed.
+Follow these step-by-step instructions to get the application running on your local machine. Ensure you have **Python 3.8+** and **Node.js (18+)** installed
 
 ### ⚡ Easy Auto-Start (Windows)
 
